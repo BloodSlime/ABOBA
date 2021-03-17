@@ -1,0 +1,27 @@
+h1 {
+  color: black;
+  font-family: arial;
+  text-align: center;
+}
+
+body {
+  background: linear-gradient(to left, white, lightgray);
+}
+
+.btn {
+  position: absolute;
+  font-size: 16px;
+  left: 46%;
+  height: 40px;
+  width: 100px;
+}
+
+.img {
+  position: absolute;
+  left: 36%;
+  top: 20%;
+}
+
+.hidden {
+  display: none;
+}
